@@ -1,0 +1,27 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(106, 127, 248);
+
+}
+
+.inputs{
+    border: 2px solid black;
+    width: 300px;
+    padding: 30px;
+    margin: 10px;
+    background-color: rgb(202, 210, 255)
+}
+
+.calc-displays{
+    border: 2px solid black;
+    width: 300px;
+    padding: 30px;
+    background-color: rgb(156, 170, 250)
+}
+input{
+    width: 100px;
+}
